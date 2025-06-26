@@ -3588,7 +3588,7 @@ a:hover {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../../images/footer_bg.jpg');
+    background-image: url('https://www.infichoice.com//images/footer_bg.webp');
 }
 
 .footer-area:before {
